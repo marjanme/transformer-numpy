@@ -1,0 +1,19 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Hidden system files
+.DS_Store
+
+# Environment files (if using virtualenv or conda)
+env/
+venv/
+*.env
+
+transformer.drawio
